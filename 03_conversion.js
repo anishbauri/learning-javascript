@@ -22,5 +22,6 @@ console.log("23" + "20" - 5);
 console.log(23 + "20");
 console.log("23" - 20 + "5");
 
+// must rember the following rules
 // + -> string
 // *,/,- -> number
