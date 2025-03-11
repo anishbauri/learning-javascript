@@ -1,0 +1,15 @@
+let value = 3;
+let negvalue = -value;
+//console.log(negvalue);
+let string1 = "hi ";
+let string2 = "hello";
+console.log(string1 + string2);
+console.log("6" - 7 + 8);
+console.log(8 + 7 + "6");
+console.log(typeof ("6" - 7 + "8"));
+console.log(typeof (8 - 7 + "6"));
+console.log(+true);
+const score = 400;
+console.log(score);
+// const balance = new balance(100);
+// console.log(balance);
